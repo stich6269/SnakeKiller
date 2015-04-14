@@ -1,0 +1,20 @@
+html{
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+#snake{
+    margin: 0;
+    padding: 0;
+    color: lightsteelblue;
+    border: 2px solid #000;
+}
