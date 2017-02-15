@@ -29,4 +29,4 @@ which placed on the field, or eat your opponent).
 
 ### Control
 - player 1 - A,W,D,S
-- player 2 - 4,8,6,2
+- player 2 - 4,8,6,5
